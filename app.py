@@ -272,4 +272,3 @@ if "Prediccion" in selected_page:
     Capture los datos""")
  
  
- 
